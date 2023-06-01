@@ -29,7 +29,7 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é destinado.
 
 ![Menu de navegação](https://github.com/JonathanFLima/jornadaPet/blob/main/screenshots/04-menu%20navegação.png?raw=true)
 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Se por alguma razão você optar não ter mais este perfil armazenado na sua conta, você pode excluir o perfil do pet, atentando-se **que todas as informações referentes ao bichinho serão excluídas junto com ele**.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Se por alguma razão você optar não ter mais este perfil armazenado na sua conta, você pode excluir o perfil do pet, atentando-se <strong>que todas as informações referentes ao bichinho serão excluídas junto com ele</strong>.</p>
 
 
     # HISTÓRICO DE VACINAS
@@ -45,7 +45,7 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é destinado.
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;A tela de alergias dá liberdade ao usuário para preencher as informações de forma mais livre. Por mais que alergias tenham seus tópicos mais comuns, elas tem diversos fatores para causarem uma reação alérgica.</p>
 
-<p align="justify">Por isso, uma mensagem na tela informa que o melhor jeito de preencher essas informações é com um diagnóstico do(a) médico(a) veterinário(a) responsável pela identificação da alergia, assim como seu tratamento para que o pet se recupere.</p>
+<p align="justify">Por isso, uma mensagem na tela informa que o melhor jeito de preencher essas informações é com um <strong>diagnóstico do(a) médico(a) veterinário(a) responsável pela identificação da alergia</strong>, assim como seu tratamento para que o pet se recupere.</p>
 
 ![Histórico de alergias](https://github.com/JonathanFLima/jornadaPet/blob/main/screenshots/08-alergias.png?raw=true)
 ![Adicionar alergia](https://github.com/JonathanFLima/jornadaPet/blob/main/screenshots/09-adicionar%20alergia.png?raw=true)
@@ -53,7 +53,7 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é destinado.
 
     # HISTÓRICO DE CONSULTAS
 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Idas a clínicas veterinárias, seja por emergência ou por um *check-up* de rotina, fazem parte da vida do seu pet. É possível registrar dados sobre consultas e manter informações sobre elas para que se tenha uma linha do tempo dos acontecimentos. Um espaço para comentários permite que você adicione conteúdo extra e personalizado referente a consulta em questão.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Idas a clínicas veterinárias, seja por emergência ou por um <i>check-up</i> de rotina, fazem parte da vida do seu pet. É possível registrar dados sobre consultas e manter informações sobre elas para que se tenha uma linha do tempo dos acontecimentos. Um espaço para comentários permite que você adicione conteúdo extra e personalizado referente a consulta em questão.</p>
 
 ![Histórico de consultas](https://github.com/JonathanFLima/jornadaPet/blob/main/screenshots/10-consultas.png?raw=true)
 ![Adicionar consulta](https://github.com/JonathanFLima/jornadaPet/blob/main/screenshots/11-nova%20consulta.png?raw=true)
@@ -61,5 +61,5 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é destinado.
 
     # INFORMATIVOS
 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Por fim, gostaríamos de lembrar que o aplicativo **NÃO** é um substituto para a caderneta de papel, que contém informações oficiais, como o selo da vacina aplicada. O aplicativo é um mero **facilitador** para que você tenha as informações sobre seu pet de forma rápida e em um local só. Este projeto não possui valor referente a área de medicina veterinária e não pode ser usado como comprovante de informações referentes ao seu animal.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Por fim, gostaríamos de lembrar que o aplicativo <strong>NÃO</strong> é um substituto para a caderneta de papel, que contém informações oficiais, como o selo da vacina aplicada. O aplicativo é um mero <strong>facilitador</strong> para que você tenha as informações sobre seu pet de forma rápida e em um local só. Este projeto não possui valor referente a área de medicina veterinária e não pode ser usado como comprovante de informações referentes ao seu animal.</p>
 
