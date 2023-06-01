@@ -6,9 +6,9 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é destinado.
 
 ## Olá! Seja bem vindo ao projeto "JornadaPet".
 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Esta é a página referente ao meu trabalho de conclusão de curso de Ciência da Computação. Um aplicativo para celulares de sistema Android que visa simular uma caderneta de vacinação, juntamente com algumas informações extras, como possíveis alergias e histórico de consultas que seu bichinho experenciou.
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Esta é a página referente ao meu trabalho de conclusão de curso de Ciência da Computação. Um aplicativo para celulares de sistema Android que visa simular uma caderneta de vacinação, juntamente com algumas informações extras, como possíveis alergias e histórico de consultas que seu bichinho experenciou.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;O aplicativo é voltado para cães e gatos, gerando informações de acordo com a espécie do animal. Você pode criar um perfil para cada pet que você tiver e registrar as informações dele para que tenha um fácil acesso aos dados da saúde do seu querido bichinho. Assim, você companha ele por toda sua jornada de vida ;)</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;O aplicativo é voltado para cães e gatos, gerando informações de acordo com a espécie do animal. Você pode criar um perfil para cada pet que você tiver e registrar as informações dele para que tenha um fácil acesso aos dados da saúde do seu querido bichinho. Assim, você companha ele por toda sua jornada de vida ;)</p>
 
     # REGISTRO DE CONTA E ACESSO
 
@@ -43,9 +43,9 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é destinado.
 
     # HISTÓRICO DE ALERGIAS
 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;A tela de alergias dá liberdade ao usuário para preencher as informações de forma mais livre. Por mais que alergias tenham seus tópicos mais comuns, elas tem diversos fatores para causarem uma reação alérgica.
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;A tela de alergias dá liberdade ao usuário para preencher as informações de forma mais livre. Por mais que alergias tenham seus tópicos mais comuns, elas tem diversos fatores para causarem uma reação alérgica.</p>
 
-Por isso, uma mensagem na tela informa que o melhor jeito de preencher essas informações é com um diagnóstico do(a) médico(a) veterinário(a) responsável pela identificação da alergia, assim como seu tratamento para que o pet se recupere.</p>
+<p align="justify">Por isso, uma mensagem na tela informa que o melhor jeito de preencher essas informações é com um diagnóstico do(a) médico(a) veterinário(a) responsável pela identificação da alergia, assim como seu tratamento para que o pet se recupere.</p>
 
 ![Histórico de alergias](https://github.com/JonathanFLima/jornadaPet/blob/main/screenshots/08-alergias.png?raw=true)
 ![Adicionar alergia](https://github.com/JonathanFLima/jornadaPet/blob/main/screenshots/09-adicionar%20alergia.png?raw=true)
