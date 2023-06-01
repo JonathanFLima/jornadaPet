@@ -14,19 +14,20 @@ O aplicativo é voltado para cães e gatos, gerando informações de acordo com 
 
 Para acessar as funcionalidades do aplicativo, é preciso ter uma conta. Assim que você acessa o aplicativo uma tela de login aparece. Caso ainda não tenha uma conta, basta clicar em "criar conta" e seguir as instruções.
 
-[print da tela de login e registro]
+![Login](https://github.com/JonathanFLima/jornadaPet/blob/main/screenshots/01-login.png?raw=true)
+![Registro](https://github.com/JonathanFLima/jornadaPet/blob/main/screenshots/02-registro.png?raw=true)
 
     # CRIAR PERFIL DO PET
 
 Após login, você tem a opção de acessar um perfil de um pet já criado anteriormente ou criar um perfil. Caso opte por um novo perfil, basta preencher as informações do bichinho e clicar no botão para adicioná-lo ao seus perfis de pet. É possível adicionar uma foto para dar maior personalidade ao perfil.
 
-[print da tela principal]
+![Tela principal](https://github.com/JonathanFLima/jornadaPet/blob/main/screenshots/03-pagina%20principal.png?raw=true)
 
     # MENU DE NAVEGAÇÃO DO PET
 
 Com o perfil do pet criado, basta selecioná-lo para ir ao menu de navegação. Nele você encontrará os históricos de vacinas, alergias e consultas, além da possibilidade de editar as informações do seu pet, caso seja necessário.
 
-[print do menu de navegação do pet]
+![Menu de navegação](https://github.com/JonathanFLima/jornadaPet/blob/main/screenshots/04-menu%20navegação.png?raw=true)
 
 Se por alguma razão você optar não ter mais este perfil armazenado na sua conta, você pode excluir o perfil do pet, atentando-se **que todas as informações referentes ao bichinho serão excluídas junto com ele**.
 
@@ -35,7 +36,9 @@ Se por alguma razão você optar não ter mais este perfil armazenado na sua con
 
 A página de vacinas permite que você adicione novos registros, baseado em qual vacina seu pet tomou e qual sua dose, além de informações extras. É possível organizar os registros baseado em mais recentes ou mais antigos e pela data que o registro da vacina foi adicionada ou pela data em que a vacina foi aplicada.
 
-[print da tela de vacinas]
+![Histórico de vacinas](https://github.com/JonathanFLima/jornadaPet/blob/main/screenshots/05-vacinas.png?raw=true)
+![Adicionar uma vacina](https://github.com/JonathanFLima/jornadaPet/blob/main/screenshots/06-adicionar%20vacina.png?raw=true)
+![Editar vacina](https://github.com/JonathanFLima/jornadaPet/blob/main/screenshots/07-editar%20vacina.png?raw=true)
 
 
     # HISTÓRICO DE ALERGIAS
@@ -44,14 +47,17 @@ A tela de alergias dá liberdade ao usuário para preencher as informações de 
 
 Por isso, uma mensagem na tela informa que o melhor jeito de preencher essas informações é com um diagnóstico do(a) médico(a) veterinário(a) responsável pela identificação da alergia, assim como seu tratamento para que o pet se recupere.
 
-[print da tela de alergias]
+![Histórico de alergias](https://github.com/JonathanFLima/jornadaPet/blob/main/screenshots/08-alergias.png?raw=true)
+![Adicionar alergia](https://github.com/JonathanFLima/jornadaPet/blob/main/screenshots/09-adicionar%20alergia.png?raw=true)
 
 
     # HISTÓRICO DE CONSULTAS
 
 Idas a clínicas veterinárias, seja por emergência ou por um *check-up* de rotina, fazem parte da vida do seu pet. É possível registrar dados sobre consultas e manter informações sobre elas para que se tenha uma linha do tempo dos acontecimentos. Um espaço para comentários permite que você adicione conteúdo extra e personalizado referente a consulta em questão.
 
-[print da tela de consultas]
+![Histórico de consultas](https://github.com/JonathanFLima/jornadaPet/blob/main/screenshots/10-consultas.png?raw=true)
+![Adicionar consulta](https://github.com/JonathanFLima/jornadaPet/blob/main/screenshots/11-nova%20consulta.png?raw=true)
+![Editar consulta](https://github.com/JonathanFLima/jornadaPet/blob/main/screenshots/12-editar%20consulta.png?raw=true)
 
     # INFORMATIVOS
 
